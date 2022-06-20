@@ -1,0 +1,13 @@
+nav{
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 10;
+  left: 0;
+  background-color: crimson;
+  padding-top: 20px;
+}
+.left{
+  flex:1 1 200px;
+}
